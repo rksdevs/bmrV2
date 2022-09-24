@@ -1,5 +1,5 @@
 # Book My Room
-An fullstack application built using MERN stack - where user can register/login. Select cities, browser hotels/properties/rooms based on dates/availabilities. Link : https://bookmyroom-v1.herokuapp.com/
+An fullstack application built using MERN stack - where user can register/login. Select cities, browser hotels/properties/rooms based on dates/availabilities. Link : https://bmrv2.herokuapp.com/
 
 ## Feature Additions - Requested
 1. Newsletter Pop Up upon visit
